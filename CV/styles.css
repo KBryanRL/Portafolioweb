@@ -103,8 +103,12 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.resume .resume_left ul li .data {
+.resume .resume_left ul li .data{
   color: #b1eaff;
+}
+ a{
+  color: #b1eaff;
+  text-decoration: none;
 }
 
 .resume .resume_left .resume_skills ul li {

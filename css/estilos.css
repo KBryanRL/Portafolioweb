@@ -82,7 +82,7 @@ li {
 }
 
 .text--purple {
-  color: #DDB865;
+  color: #FE5F1E;
 }
 
 section:nth-child(even) {
@@ -97,7 +97,7 @@ section:nth-child(even) {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #DDB865;
+  color: #FE5F1E;
   display: flex;
 }
 .gifDownload{
@@ -129,7 +129,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-  background-color: #DDB865;
+  background-color: #FE5F1E;
   padding: 8px 20px;
   border-radius: 50px;
   color: white;
@@ -137,12 +137,12 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-  background-color: #c9a14d;
+  background-color: #ca4c1a;
 }
 
 .personal__logo {
   font-size: 24px;
-  color: #DDB865;
+  color: #FE5F1E;
   margin: 0 12px;
   font-weight: bold
 }
